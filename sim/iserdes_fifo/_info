@@ -1,0 +1,202 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/.PDS2021/prj/fifo_ram_ctrl/sim
+vKz42tXkY5gXcXQ6Z0s7t/g==
+Z0 !s10a 1653857264
+Z1 !s110 1697197261
+!i10b 0
+!s100 hBK7nZ?W]lWb5GPOk93R53
+IiKITQ4[n[GCjjJEIJz7hg0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!i8a 556194576
+Z3 dD:/.PDS2021/PDS_2021.4-SP1.2/arch/vendor/pango/verilog/simulation/modelsim10.2c
+Z4 w1697197261
+Z5 8./iserdes_fifo_source_codes/iserdes_fifo_async_fifo.vp
+Z6 F./iserdes_fifo_source_codes/iserdes_fifo_async_fifo.vp
+Z7 L0 23
+Z8 OL;L;10.5;63
+r1
+!s85 0
+31
+Z9 !s108 1697197261.000000
+Z10 !s107 ./iserdes_fifo_source_codes/iserdes_fifo_async_fifo.vp|
+Z11 !s90 -incr|-f|./filelist_iserdes_fifo_gtp.f|-work|iserdes_fifo|
+!i113 0
+Z12 o-work iserdes_fifo -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 tCvgOpt 0
+na20eba8
+vPWLD+A8PkLYqDUFrVLKnbg==
+R0
+R1
+!i10b 0
+!s100 Kf2ZCZQ]M35YjHcdG?>Wd0
+IY;o_=DmzF=RX<Ie7oR9JS3
+R2
+!i8a 227554080
+R3
+R4
+R5
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+n48fa048
+v0L2IBilN3fdcJSgvb2WLRA==
+R0
+R1
+!i10b 0
+!s100 @MhBG9X_`MH<bcEDe[IFR0
+IVLDBTXmknk[W0>hRRGHRo0
+R2
+!i8a 1078677904
+R3
+R4
+R5
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+na2feea8
+vqLWBa7XAzwBUrMNFPxfsrdFoChE81+Wm4BucCB+7iC4=
+R0
+R1
+!i10b 0
+!s100 CiV^11;7[DjfaziTDdbMF0
+IS4EJQKkRb=A:9nL385MS23
+R2
+!i8a 1642662896
+R3
+R4
+R5
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+nc99855f
+v76+VN3+HVSkSbID0mwIikg==
+R0
+R1
+!i10b 0
+!s100 BYH:U6n0VlW2jY_8JU6Hh1
+IlgBWBl5UN]BemCV4bSnzh2
+R2
+!i8a 419635904
+R3
+R4
+R5
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+nff55678
+v0Pvagx+sFctxGfpiUeEHZSFnStcYpC1+C3sHKj6m1OE=
+R0
+R1
+!i10b 0
+!s100 1zeA`IhP26YQ>`4gaXY`[0
+I2h_mMKb_N@]4SEcD1HJ;71
+R2
+!i8a 1003834000
+R3
+R4
+R5
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+n4d58de8
+vDVnKiqm3e4WI8g6UMJt3gQ==
+R0
+R1
+!i10b 0
+!s100 M>[fQ`aRM[[i8]M1LDHAP1
+I75RC[K[G:L=3CkG?CIPkF3
+R2
+!i8a 1040110496
+R3
+R4
+R5
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+nf1d0fb8
+vA7ze9yX1TOddTiVSrDoqgw==
+R0
+R1
+!i10b 0
+!s100 7:6lPiF`S=G_g=g]ahNmZ3
+I6ac]n`k7zie9AdUIEi0C53
+R2
+!i8a 1680204480
+R3
+R4
+R5
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+nff56c58

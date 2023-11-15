@@ -1,0 +1,591 @@
+# Reading D:/Modelsim/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.5 Feb 13 2016 
+# //
+# //  Copyright 1991-2016 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# do {run_behav_compile.tcl}
+# ** Error: (vlib-35) Failed to create directory "work".
+# File exists. (errno = EEXIST)
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap work ./work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap usim C:/Users/23600/Desktop/full_screen/sim/usim 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap adc C:/Users/23600/Desktop/full_screen/sim/adc 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap ddrc C:/Users/23600/Desktop/full_screen/sim/ddrc 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap ddrphy C:/Users/23600/Desktop/full_screen/sim/ddrphy 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap hsst_e2 C:/Users/23600/Desktop/full_screen/sim/hsst_e2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap iolhr_dft C:/Users/23600/Desktop/full_screen/sim/iolhr_dft 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap ipal_e1 C:/Users/23600/Desktop/full_screen/sim/ipal_e1 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap pciegen2 C:/Users/23600/Desktop/full_screen/sim/pciegen2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:33 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/ddr_arbit.v -work work 
+# -- Compiling module ddr_arbit
+# ** Warning: C:/Users/23600/Desktop/full_screen/source/ddr_arbit.v(104): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# ** Warning: C:/Users/23600/Desktop/full_screen/source/ddr_arbit.v(107): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	ddr_arbit
+# End time: 16:24:33 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 2
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:33 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/frame_buf.v -work work 
+# -- Compiling module frame_buf
+# 
+# Top level modules:
+# 	frame_buf
+# End time: 16:24:33 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:33 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/rtl/cmos_8_16bit.v -work work 
+# -- Compiling module cmos_8_16bit
+# 
+# Top level modules:
+# 	cmos_8_16bit
+# End time: 16:24:33 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:33 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/rtl/i2c_com.v -work work 
+# -- Compiling module i2c_com
+# 
+# Top level modules:
+# 	i2c_com
+# End time: 16:24:33 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:33 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/rtl/iic_dri.v -work work 
+# -- Compiling module iic_dri
+# 
+# Top level modules:
+# 	iic_dri
+# End time: 16:24:33 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:33 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/rtl/ms72xx_ctl.v -work work 
+# -- Compiling module ms72xx_ctl
+# 
+# Top level modules:
+# 	ms72xx_ctl
+# End time: 16:24:34 on Nov 11,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:34 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/rtl/ms7200_ctl.v -work work 
+# -- Compiling module ms7200_ctl
+# 
+# Top level modules:
+# 	ms7200_ctl
+# End time: 16:24:34 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:34 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/rtl/ms7210_ctl.v -work work 
+# -- Compiling module ms7210_ctl
+# 
+# Top level modules:
+# 	ms7210_ctl
+# End time: 16:24:34 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:34 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/rtl/power_on_delay.v -work work 
+# -- Compiling module power_on_delay
+# 
+# Top level modules:
+# 	power_on_delay
+# End time: 16:24:34 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:34 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/rtl/rd_buf.v -work work 
+# -- Compiling module rd_buf
+# 
+# Top level modules:
+# 	rd_buf
+# End time: 16:24:34 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:34 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/rtl/reg_config.v -work work 
+# -- Compiling module reg_config
+# 
+# Top level modules:
+# 	reg_config
+# End time: 16:24:34 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:34 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/rtl/sync_vg.v -work work 
+# -- Compiling module sync_vg
+# 
+# Top level modules:
+# 	sync_vg
+# End time: 16:24:34 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:34 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/wr_buf.v -work work 
+# -- Compiling module wr_buf
+# 
+# Top level modules:
+# 	wr_buf
+# End time: 16:24:34 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:34 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/rtl/rd_ctrl.v -work work 
+# -- Compiling module rd_ctrl
+# 
+# Top level modules:
+# 	rd_ctrl
+# End time: 16:24:34 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:34 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/rtl/wr_cmd_trans.v -work work 
+# -- Compiling module wr_cmd_trans
+# 
+# Top level modules:
+# 	wr_cmd_trans
+# End time: 16:24:34 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:34 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/rtl/wr_ctrl.v -work work 
+# -- Compiling module wr_ctrl
+# 
+# Top level modules:
+# 	wr_ctrl
+# End time: 16:24:34 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:35 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/rtl/wr_rd_ctrl_top.v -work work 
+# -- Compiling module wr_rd_ctrl_top
+# 
+# Top level modules:
+# 	wr_rd_ctrl_top
+# End time: 16:24:35 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:35 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/image_size_down_without_fifo.v -work work 
+# -- Compiling module image_size_down_without_fifo
+# 
+# Top level modules:
+# 	image_size_down_without_fifo
+# End time: 16:24:35 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:35 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/scale/calculator.v -work work 
+# -- Compiling module calculator
+# 
+# Top level modules:
+# 	calculator
+# End time: 16:24:35 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:35 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/scale/ram_fifo_ctrl.v -work work 
+# -- Compiling module ram_fifo_ctrl
+# 
+# Top level modules:
+# 	ram_fifo_ctrl
+# End time: 16:24:35 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:35 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/scale/rfifo.v -work work 
+# -- Compiling module rfifo
+# 
+# Top level modules:
+# 	rfifo
+# End time: 16:24:35 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:35 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/scale/scaler.v -work work 
+# -- Compiling module scaler
+# 
+# Top level modules:
+# 	scaler
+# End time: 16:24:35 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:35 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/scale/calculator_3.v -work work 
+# -- Compiling module calculator_3
+# 
+# Top level modules:
+# 	calculator_3
+# End time: 16:24:35 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:35 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/scale/scaler_3.v -work work 
+# -- Compiling module scaler_3
+# ** Warning: C:/Users/23600/Desktop/full_screen/source/scale/scaler_3.v(22): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	scaler_3
+# End time: 16:24:35 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:35 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/scale/calculator_2.v -work work 
+# -- Compiling module calculator_2
+# 
+# Top level modules:
+# 	calculator_2
+# End time: 16:24:35 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:35 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/scale/scaler_2.v -work work 
+# -- Compiling module scaler_2
+# 
+# Top level modules:
+# 	scaler_2
+# End time: 16:24:35 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:35 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/scale/calculator_4.v -work work 
+# -- Compiling module calculator_4
+# 
+# Top level modules:
+# 	calculator_4
+# End time: 16:24:36 on Nov 11,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:36 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/scale/scaler_4.v -work work 
+# -- Compiling module scaler_4
+# ** Warning: C:/Users/23600/Desktop/full_screen/source/scale/scaler_4.v(22): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	scaler_4
+# End time: 16:24:36 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:36 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/key_config.v -work work 
+# -- Compiling module key_config
+# 
+# Top level modules:
+# 	key_config
+# End time: 16:24:36 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:36 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/ipcore/mul_2_8/rtl/ipml_mult_v1_2_mul_2_8.v -work work 
+# -- Compiling module ipml_mult_v1_2_mul_2_8
+# 
+# Top level modules:
+# 	ipml_mult_v1_2_mul_2_8
+# End time: 16:24:36 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:36 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/ipcore/mul_2_8/mul_2_8.v -work work 
+# -- Compiling module mul_2_8
+# 
+# Top level modules:
+# 	mul_2_8
+# End time: 16:24:36 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:36 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/wr_fram_buf/rtl/ipml_sdpram_v1_6_wr_fram_buf.v -work work 
+# -- Compiling module ipml_sdpram_v1_6_wr_fram_buf
+# 
+# Top level modules:
+# 	ipml_sdpram_v1_6_wr_fram_buf
+# End time: 16:24:36 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:36 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/wr_fram_buf/wr_fram_buf.v -work work 
+# -- Compiling module wr_fram_buf
+# 
+# Top level modules:
+# 	wr_fram_buf
+# End time: 16:24:36 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:36 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/rd_fram_buf/rtl/ipml_sdpram_v1_6_rd_fram_buf.v -work work 
+# -- Compiling module ipml_sdpram_v1_6_rd_fram_buf
+# 
+# Top level modules:
+# 	ipml_sdpram_v1_6_rd_fram_buf
+# End time: 16:24:36 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:36 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/rd_fram_buf/rd_fram_buf.v -work work 
+# -- Compiling module rd_fram_buf
+# 
+# Top level modules:
+# 	rd_fram_buf
+# End time: 16:24:36 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:36 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/ipcore/pll/pll.v -work work 
+# -- Compiling module pll
+# 
+# Top level modules:
+# 	pll
+# End time: 16:24:36 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:37 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/rtl/ipm_distributed_fifo_ctr_v1_0.v -work work 
+# -- Compiling module ipm_distributed_fifo_ctr_v1_0
+# 
+# Top level modules:
+# 	ipm_distributed_fifo_ctr_v1_0
+# End time: 16:24:37 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:37 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/rtl/ipm_distributed_fifo_v1_2_size_down_fifo.v -work work 
+# -- Compiling module ipm_distributed_fifo_v1_2_size_down_fifo
+# 
+# Top level modules:
+# 	ipm_distributed_fifo_v1_2_size_down_fifo
+# End time: 16:24:37 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:37 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/rtl/ipm_distributed_sdpram_v1_2_size_down_fifo.v -work work 
+# -- Compiling module ipm_distributed_sdpram_v1_2_size_down_fifo
+# 
+# Top level modules:
+# 	ipm_distributed_sdpram_v1_2_size_down_fifo
+# End time: 16:24:37 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:37 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/size_down_fifo.v -work work 
+# -- Compiling module size_down_fifo
+# 
+# Top level modules:
+# 	size_down_fifo
+# End time: 16:24:37 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:37 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/scale_fifo/rtl/ipml_fifo_ctrl_v1_3.v -work work 
+# -- Compiling module ipml_fifo_ctrl_v1_3
+# 
+# Top level modules:
+# 	ipml_fifo_ctrl_v1_3
+# End time: 16:24:37 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:37 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/scale_fifo/rtl/ipml_sdpram_v1_6_scale_fifo.v -work work 
+# -- Compiling module ipml_sdpram_v1_6_scale_fifo
+# 
+# Top level modules:
+# 	ipml_sdpram_v1_6_scale_fifo
+# End time: 16:24:37 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:37 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/scale_fifo/rtl/ipml_fifo_v1_6_scale_fifo.v -work work 
+# -- Compiling module ipml_fifo_v1_6_scale_fifo
+# 
+# Top level modules:
+# 	ipml_fifo_v1_6_scale_fifo
+# End time: 16:24:37 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:37 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/scale_fifo/scale_fifo.v -work work 
+# -- Compiling module scale_fifo
+# 
+# Top level modules:
+# 	scale_fifo
+# End time: 16:24:37 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:37 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/ram_fifo/rtl/ipml_sdpram_v1_6_ram_fifo.v -work work 
+# -- Compiling module ipml_sdpram_v1_6_ram_fifo
+# 
+# Top level modules:
+# 	ipml_sdpram_v1_6_ram_fifo
+# End time: 16:24:37 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:37 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/ram_fifo/ram_fifo.v -work work 
+# -- Compiling module ram_fifo
+# 
+# Top level modules:
+# 	ram_fifo
+# End time: 16:24:37 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:37 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/rtl/ipml_rom_v1_5_x_scale_rom.v -work work 
+# -- Compiling module ipml_rom_v1_5_x_scale_rom
+# 
+# Top level modules:
+# 	ipml_rom_v1_5_x_scale_rom
+# End time: 16:24:38 on Nov 11,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:38 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/rtl/ipml_spram_v1_5_x_scale_rom.v -work work 
+# -- Compiling module ipml_spram_v1_5_x_scale_rom
+# 
+# Top level modules:
+# 	ipml_spram_v1_5_x_scale_rom
+# End time: 16:24:38 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:38 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/x_scale_rom.v -work work 
+# -- Compiling module x_scale_rom
+# 
+# Top level modules:
+# 	x_scale_rom
+# End time: 16:24:38 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:38 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/rtl/ipml_rom_v1_5_y_scale_rom.v -work work 
+# -- Compiling module ipml_rom_v1_5_y_scale_rom
+# 
+# Top level modules:
+# 	ipml_rom_v1_5_y_scale_rom
+# End time: 16:24:38 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:38 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/rtl/ipml_spram_v1_5_y_scale_rom.v -work work 
+# -- Compiling module ipml_spram_v1_5_y_scale_rom
+# 
+# Top level modules:
+# 	ipml_spram_v1_5_y_scale_rom
+# End time: 16:24:38 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:38 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/y_scale_rom.v -work work 
+# -- Compiling module y_scale_rom
+# 
+# Top level modules:
+# 	y_scale_rom
+# End time: 16:24:38 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:38 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/sim/tb_ram_fifo_ctrl.v -work work 
+# -- Compiling module tb_ram_fifo_ctrl
+# 
+# Top level modules:
+# 	tb_ram_fifo_ctrl
+# End time: 16:24:38 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:38 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/sim/tb_rfifo.v -work work 
+# -- Compiling module tb_rfifo
+# 
+# Top level modules:
+# 	tb_rfifo
+# End time: 16:24:38 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:38 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/sim/tb_imgae_size_down.v -work work 
+# -- Compiling module tb_imgae_size_down
+# 
+# Top level modules:
+# 	tb_imgae_size_down
+# End time: 16:24:38 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 16:24:38 on Nov 11,2023
+# vlog -reportprogress 300 C:/Users/23600/Desktop/full_screen/source/tb_key_config.v -work work 
+# -- Compiling module tb_key_config
+# 
+# Top level modules:
+# 	tb_key_config
+# End time: 16:24:38 on Nov 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# do {run_behav_simulate.tcl}
+# vsim -novopt -L work -L usim -L adc -L ddrc -L ddrphy -L hsst_e2 -L iolhr_dft -L ipal_e1 -L pciegen2 tb_key_config usim.GTP_GRS 
+# Start time: 16:24:38 on Nov 11,2023
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# Refreshing C:/Users/23600/Desktop/full_screen/sim/behav/work.tb_key_config
+# Loading work.tb_key_config
+# Loading usim.GTP_GRS
+# Refreshing C:/Users/23600/Desktop/full_screen/sim/behav/work.key_config
+# Loading work.key_config
+# Refreshing C:/Users/23600/Desktop/full_screen/sim/behav/work.x_scale_rom
+# Loading work.x_scale_rom
+# Refreshing C:/Users/23600/Desktop/full_screen/sim/behav/work.ipml_rom_v1_5_x_scale_rom
+# Loading work.ipml_rom_v1_5_x_scale_rom
+# Refreshing C:/Users/23600/Desktop/full_screen/sim/behav/work.ipml_spram_v1_5_x_scale_rom
+# Loading work.ipml_spram_v1_5_x_scale_rom
+# Refreshing C:/Users/23600/Desktop/full_screen/sim/behav/work.y_scale_rom
+# Loading work.y_scale_rom
+# Refreshing C:/Users/23600/Desktop/full_screen/sim/behav/work.ipml_rom_v1_5_y_scale_rom
+# Loading work.ipml_rom_v1_5_y_scale_rom
+# Refreshing C:/Users/23600/Desktop/full_screen/sim/behav/work.ipml_spram_v1_5_y_scale_rom
+# Loading work.ipml_spram_v1_5_y_scale_rom
+# Loading usim.GTP_DRM18K
+# ** Warning: (vsim-3017) C:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/rtl/ipml_spram_v1_5_x_scale_rom.v(570): [TFMPC] - Too few port connections. Expected 21, found 20.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_key_config/u_key_config/x_scale_rom_inst/U_ipml_rom_x_scale_rom/U_ipml_spram_x_scale_rom/ADDR_LOOP[0]/DATA_LOOP[0]/U_GTP_DRM18K File: D:/.PDS2021/PDS_2021.4-SP1.2/arch/vendor/pango/verilog/simulation/GTP_DRM18K.v
+# ** Warning: (vsim-3722) C:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/rtl/ipml_spram_v1_5_x_scale_rom.v(570): [TFMPC] - Missing connection for port 'WWCONF'.
+# ** Warning: (vsim-3017) C:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/rtl/ipml_spram_v1_5_x_scale_rom.v(570): [TFMPC] - Too few port connections. Expected 21, found 20.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_key_config/u_key_config/x_scale_rom_inst/U_ipml_rom_x_scale_rom/U_ipml_spram_x_scale_rom/ADDR_LOOP[0]/DATA_LOOP[1]/U_GTP_DRM18K File: D:/.PDS2021/PDS_2021.4-SP1.2/arch/vendor/pango/verilog/simulation/GTP_DRM18K.v
+# ** Warning: (vsim-3722) C:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/rtl/ipml_spram_v1_5_x_scale_rom.v(570): [TFMPC] - Missing connection for port 'WWCONF'.
+# ** Warning: (vsim-3017) C:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/rtl/ipml_spram_v1_5_y_scale_rom.v(570): [TFMPC] - Too few port connections. Expected 21, found 20.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_key_config/u_key_config/y_scale_rom_inst/U_ipml_rom_y_scale_rom/U_ipml_spram_y_scale_rom/ADDR_LOOP[0]/DATA_LOOP[0]/U_GTP_DRM18K File: D:/.PDS2021/PDS_2021.4-SP1.2/arch/vendor/pango/verilog/simulation/GTP_DRM18K.v
+# ** Warning: (vsim-3722) C:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/rtl/ipml_spram_v1_5_y_scale_rom.v(570): [TFMPC] - Missing connection for port 'WWCONF'.
+# ** Warning: (vsim-3017) C:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/rtl/ipml_spram_v1_5_y_scale_rom.v(570): [TFMPC] - Too few port connections. Expected 21, found 20.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_key_config/u_key_config/y_scale_rom_inst/U_ipml_rom_y_scale_rom/U_ipml_spram_y_scale_rom/ADDR_LOOP[0]/DATA_LOOP[1]/U_GTP_DRM18K File: D:/.PDS2021/PDS_2021.4-SP1.2/arch/vendor/pango/verilog/simulation/GTP_DRM18K.v
+# ** Warning: (vsim-3722) C:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/rtl/ipml_spram_v1_5_y_scale_rom.v(570): [TFMPC] - Missing connection for port 'WWCONF'.
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# End time: 21:00:26 on Nov 11,2023, Elapsed time: 4:35:48
+# Errors: 0, Warnings: 9

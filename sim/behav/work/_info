@@ -1,0 +1,1180 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/23600/Desktop/full_screen/sim/behav
+vcalculator
+Z1 !s110 1699691075
+!i10b 1
+!s100 Wc?8m=Y;;J]6bQ97960ZD3
+IL_50j1febmVa9?AczXj702
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1699371812
+8C:/Users/23600/Desktop/full_screen/source/scale/calculator.v
+FC:/Users/23600/Desktop/full_screen/source/scale/calculator.v
+L0 1
+Z3 OL;L;10.5;63
+r1
+!s85 0
+31
+Z4 !s108 1699691075.000000
+!s107 C:/Users/23600/Desktop/full_screen/source/scale/calculator.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/scale/calculator.v|-work|work|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vcalculator_2
+R1
+!i10b 1
+!s100 aS[VYLW[jdK`Jc>oc_6M[2
+IU;KUgX1o6@82MNf;Sda9J2
+R2
+R0
+w1699361653
+8C:/Users/23600/Desktop/full_screen/source/scale/calculator_2.v
+FC:/Users/23600/Desktop/full_screen/source/scale/calculator_2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/23600/Desktop/full_screen/source/scale/calculator_2.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/scale/calculator_2.v|-work|work|
+!i113 0
+R5
+R6
+vcalculator_3
+R1
+!i10b 1
+!s100 LB^;:mRl2;eZYo=QLlE1I2
+ImjJn3JO<fi1@nifSHzXQX3
+R2
+R0
+w1699543904
+8C:/Users/23600/Desktop/full_screen/source/scale/calculator_3.v
+FC:/Users/23600/Desktop/full_screen/source/scale/calculator_3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/23600/Desktop/full_screen/source/scale/calculator_3.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/scale/calculator_3.v|-work|work|
+!i113 0
+R5
+R6
+vcalculator_4
+Z7 !s110 1699691076
+!i10b 1
+!s100 H1h>>3H3:g839m^achKHA2
+IcD[WDkdJm=BhzIgHkMLhz3
+R2
+R0
+w1699620323
+8C:/Users/23600/Desktop/full_screen/source/scale/calculator_4.v
+FC:/Users/23600/Desktop/full_screen/source/scale/calculator_4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/23600/Desktop/full_screen/source/scale/calculator_4.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/scale/calculator_4.v|-work|work|
+!i113 0
+R5
+R6
+vcmos_8_16bit
+Z8 !s110 1699691073
+!i10b 1
+!s100 :MOLQ>11TKdG>DaJR87Pg3
+I;0g]3<HM<GTS`W4li[fno1
+R2
+R0
+w1680019146
+8C:/Users/23600/Desktop/full_screen/source/rtl/cmos_8_16bit.v
+FC:/Users/23600/Desktop/full_screen/source/rtl/cmos_8_16bit.v
+Z9 L0 23
+R3
+r1
+!s85 0
+31
+Z10 !s108 1699691073.000000
+!s107 C:/Users/23600/Desktop/full_screen/source/rtl/cmos_8_16bit.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/rtl/cmos_8_16bit.v|-work|work|
+!i113 0
+R5
+R6
+vddr_arbit
+R8
+!i10b 1
+!s100 2mco=:W8JTc@?43ZTd?Xf1
+Ia^=ZJzd^aN4=_zQ@d8Bcl3
+R2
+R0
+w1699079628
+8C:/Users/23600/Desktop/full_screen/source/ddr_arbit.v
+FC:/Users/23600/Desktop/full_screen/source/ddr_arbit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/23600/Desktop/full_screen/source/ddr_arbit.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/ddr_arbit.v|-work|work|
+!i113 0
+R5
+R6
+vframe_buf
+R8
+!i10b 1
+!s100 YEJlEfl<FH^nD^?OfzI1k0
+I@05iEWfHI8?jzBVHY_@S<2
+R2
+R0
+w1699177101
+8C:/Users/23600/Desktop/full_screen/source/frame_buf.v
+FC:/Users/23600/Desktop/full_screen/source/frame_buf.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/23600/Desktop/full_screen/source/frame_buf.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/frame_buf.v|-work|work|
+!i113 0
+R5
+R6
+vi2c_com
+R8
+!i10b 1
+!s100 l3z8TmY>fP<9G^3;9ah1a2
+IlW;0_EUNbXMDn;RVdgl@C2
+R2
+R0
+w1679276474
+8C:/Users/23600/Desktop/full_screen/source/rtl/i2c_com.v
+FC:/Users/23600/Desktop/full_screen/source/rtl/i2c_com.v
+Z11 L0 21
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/23600/Desktop/full_screen/source/rtl/i2c_com.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/rtl/i2c_com.v|-work|work|
+!i113 0
+R5
+R6
+viic_dri
+R8
+!i10b 1
+!s100 =W?z_J?8@z>X:C?G;5AhE1
+IXH1YHYg9GMIAzioN6AzI^2
+R2
+R0
+Z12 w1676639664
+8C:/Users/23600/Desktop/full_screen/source/rtl/iic_dri.v
+FC:/Users/23600/Desktop/full_screen/source/rtl/iic_dri.v
+R9
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/23600/Desktop/full_screen/source/rtl/iic_dri.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/rtl/iic_dri.v|-work|work|
+!i113 0
+R5
+R6
+vimage_size_down_without_fifo
+R1
+!i10b 1
+!s100 4958[91T0ZhYIT3]flM]:0
+IJNo;Z;OHM9WoWcR9ble`;0
+R2
+R0
+w1699115266
+8C:/Users/23600/Desktop/full_screen/source/image_size_down_without_fifo.v
+FC:/Users/23600/Desktop/full_screen/source/image_size_down_without_fifo.v
+R9
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/23600/Desktop/full_screen/source/image_size_down_without_fifo.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/image_size_down_without_fifo.v|-work|work|
+!i113 0
+R5
+R6
+vipm_distributed_fifo_ctr_v1_0
+Z13 !s110 1699691077
+!i10b 1
+!s100 fzP70gA3UkOHUQ[U_10k71
+I>z^9WH`52;0cd2AHNih2G3
+R2
+R0
+w1653857602
+8C:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/rtl/ipm_distributed_fifo_ctr_v1_0.v
+FC:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/rtl/ipm_distributed_fifo_ctr_v1_0.v
+Z14 L0 18
+R3
+r1
+!s85 0
+31
+Z15 !s108 1699691077.000000
+!s107 C:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/rtl/ipm_distributed_fifo_ctr_v1_0.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/rtl/ipm_distributed_fifo_ctr_v1_0.v|-work|work|
+!i113 0
+R5
+R6
+vipm_distributed_fifo_v1_2_size_down_fifo
+R13
+!i10b 1
+!s100 FRZDf<H@aB@65bdF20Njj0
+I68nbA@jASm2lRN^565FjX1
+R2
+R0
+Z16 w1699177379
+8C:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/rtl/ipm_distributed_fifo_v1_2_size_down_fifo.v
+FC:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/rtl/ipm_distributed_fifo_v1_2_size_down_fifo.v
+R11
+R3
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/rtl/ipm_distributed_fifo_v1_2_size_down_fifo.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/rtl/ipm_distributed_fifo_v1_2_size_down_fifo.v|-work|work|
+!i113 0
+R5
+R6
+vipm_distributed_sdpram_v1_2_size_down_fifo
+R13
+!i10b 1
+!s100 BfNW^78EAFXHSXgHTiPXX1
+Iclk?:IzHJ]=SDIDJFOKfS0
+R2
+R0
+R16
+8C:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/rtl/ipm_distributed_sdpram_v1_2_size_down_fifo.v
+FC:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/rtl/ipm_distributed_sdpram_v1_2_size_down_fifo.v
+Z17 L0 22
+R3
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/rtl/ipm_distributed_sdpram_v1_2_size_down_fifo.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/rtl/ipm_distributed_sdpram_v1_2_size_down_fifo.v|-work|work|
+!i113 0
+R5
+R6
+vipml_fifo_ctrl_v1_3
+R13
+!i10b 1
+!s100 P3gXkkID5`N:B5iWMh33i2
+IN:62@z2;a9=znPM>[NS?O3
+R2
+R0
+w1653857514
+8C:/Users/23600/Desktop/full_screen/source/scale_fifo/rtl/ipml_fifo_ctrl_v1_3.v
+FC:/Users/23600/Desktop/full_screen/source/scale_fifo/rtl/ipml_fifo_ctrl_v1_3.v
+R11
+R3
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/23600/Desktop/full_screen/source/scale_fifo/rtl/ipml_fifo_ctrl_v1_3.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/scale_fifo/rtl/ipml_fifo_ctrl_v1_3.v|-work|work|
+!i113 0
+R5
+R6
+vipml_fifo_v1_6_scale_fifo
+R13
+!i10b 1
+!s100 V]li_k=M2fdGKUNEF4F>z1
+ID<N@=4g?1@Gcz_6bBE9D@2
+R2
+R0
+Z18 w1699084822
+8C:/Users/23600/Desktop/full_screen/source/scale_fifo/rtl/ipml_fifo_v1_6_scale_fifo.v
+FC:/Users/23600/Desktop/full_screen/source/scale_fifo/rtl/ipml_fifo_v1_6_scale_fifo.v
+L0 25
+R3
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/23600/Desktop/full_screen/source/scale_fifo/rtl/ipml_fifo_v1_6_scale_fifo.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/scale_fifo/rtl/ipml_fifo_v1_6_scale_fifo.v|-work|work|
+!i113 0
+R5
+R6
+vipml_mult_v1_2_mul_2_8
+R7
+!i10b 1
+!s100 :SZnZOQWgN]IAhbC4IjW[0
+IAKT4hSjWRIdUlzAEmKO9Y3
+R2
+R0
+Z19 w1699459301
+8C:/Users/23600/Desktop/full_screen/ipcore/mul_2_8/rtl/ipml_mult_v1_2_mul_2_8.v
+FC:/Users/23600/Desktop/full_screen/ipcore/mul_2_8/rtl/ipml_mult_v1_2_mul_2_8.v
+R14
+R3
+r1
+!s85 0
+31
+Z20 !s108 1699691076.000000
+!s107 C:/Users/23600/Desktop/full_screen/ipcore/mul_2_8/rtl/ipml_mult_v1_2_mul_2_8.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/ipcore/mul_2_8/rtl/ipml_mult_v1_2_mul_2_8.v|-work|work|
+!i113 0
+R5
+R6
+vipml_rom_v1_5_x_scale_rom
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 DM>4AZzRmblF3gbD_oH@a0
+I:gkfJ3@HHiY2el48Mn^Pl0
+R0
+Z21 w1699690969
+8C:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/rtl/ipml_rom_v1_5_x_scale_rom.v
+FC:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/rtl/ipml_rom_v1_5_x_scale_rom.v
+Z22 L0 20
+R3
+R15
+!s107 C:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/rtl/ipml_rom_v1_5_x_scale_rom.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/rtl/ipml_rom_v1_5_x_scale_rom.v|-work|work|
+!i113 0
+R5
+R6
+vipml_rom_v1_5_y_scale_rom
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 FHcO?DDDzS6G;Sm=P:=dK3
+IOgCFa4=LGNm;LbhA9H[I;1
+R0
+Z23 w1699690580
+8C:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/rtl/ipml_rom_v1_5_y_scale_rom.v
+FC:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/rtl/ipml_rom_v1_5_y_scale_rom.v
+R22
+R3
+Z24 !s108 1699691078.000000
+!s107 C:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/rtl/ipml_rom_v1_5_y_scale_rom.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/rtl/ipml_rom_v1_5_y_scale_rom.v|-work|work|
+!i113 0
+R5
+R6
+vipml_sdpram_v1_6_ram_fifo
+R13
+!i10b 1
+!s100 ;e0c:To@lYCQGO@XUTPnG3
+INPWROThfO?nJ=XSZ[5CS^2
+R2
+R0
+Z25 w1698329152
+8C:/Users/23600/Desktop/full_screen/source/ram_fifo/rtl/ipml_sdpram_v1_6_ram_fifo.v
+FC:/Users/23600/Desktop/full_screen/source/ram_fifo/rtl/ipml_sdpram_v1_6_ram_fifo.v
+R22
+R3
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/23600/Desktop/full_screen/source/ram_fifo/rtl/ipml_sdpram_v1_6_ram_fifo.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/ram_fifo/rtl/ipml_sdpram_v1_6_ram_fifo.v|-work|work|
+!i113 0
+R5
+R6
+vipml_sdpram_v1_6_rd_fram_buf
+R7
+!i10b 1
+!s100 [9^iN:bTQTWomJjWgDlL>1
+IO2V7a9emJ=IOd?R[5B@kc0
+R2
+R0
+Z26 w1697721346
+8C:/Users/23600/Desktop/full_screen/source/rd_fram_buf/rtl/ipml_sdpram_v1_6_rd_fram_buf.v
+FC:/Users/23600/Desktop/full_screen/source/rd_fram_buf/rtl/ipml_sdpram_v1_6_rd_fram_buf.v
+R22
+R3
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/23600/Desktop/full_screen/source/rd_fram_buf/rtl/ipml_sdpram_v1_6_rd_fram_buf.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/rd_fram_buf/rtl/ipml_sdpram_v1_6_rd_fram_buf.v|-work|work|
+!i113 0
+R5
+R6
+vipml_sdpram_v1_6_scale_fifo
+R13
+!i10b 1
+!s100 Hla>UIBg4I>M9Gl]1K^CB2
+I1S3EJfgogOI9T=AT;i@nC1
+R2
+R0
+R18
+8C:/Users/23600/Desktop/full_screen/source/scale_fifo/rtl/ipml_sdpram_v1_6_scale_fifo.v
+FC:/Users/23600/Desktop/full_screen/source/scale_fifo/rtl/ipml_sdpram_v1_6_scale_fifo.v
+R22
+R3
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/23600/Desktop/full_screen/source/scale_fifo/rtl/ipml_sdpram_v1_6_scale_fifo.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/scale_fifo/rtl/ipml_sdpram_v1_6_scale_fifo.v|-work|work|
+!i113 0
+R5
+R6
+vipml_sdpram_v1_6_wr_fram_buf
+R7
+!i10b 1
+!s100 >8[hdlFCcD[k3^c0@<=8I1
+In?=6mM_V[djn:d@fDFK?X1
+R2
+R0
+Z27 w1697721306
+8C:/Users/23600/Desktop/full_screen/source/wr_fram_buf/rtl/ipml_sdpram_v1_6_wr_fram_buf.v
+FC:/Users/23600/Desktop/full_screen/source/wr_fram_buf/rtl/ipml_sdpram_v1_6_wr_fram_buf.v
+R22
+R3
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/23600/Desktop/full_screen/source/wr_fram_buf/rtl/ipml_sdpram_v1_6_wr_fram_buf.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/wr_fram_buf/rtl/ipml_sdpram_v1_6_wr_fram_buf.v|-work|work|
+!i113 0
+R5
+R6
+vipml_spram_v1_5_x_scale_rom
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 KSnfe7OORR5]6E2G^[6S]3
+In_@AHJ[2=k65`j]c^@9`:2
+R0
+w1699690970
+8C:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/rtl/ipml_spram_v1_5_x_scale_rom.v
+FC:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/rtl/ipml_spram_v1_5_x_scale_rom.v
+FC:\Users\23600\Desktop\full_screen\ipcore\x_scale_rom\rtl\x_scale_rom_init_param.v
+Z28 L0 19
+R3
+R24
+!s107 C:\Users\23600\Desktop\full_screen\ipcore\x_scale_rom\rtl\x_scale_rom_init_param.v|C:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/rtl/ipml_spram_v1_5_x_scale_rom.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/rtl/ipml_spram_v1_5_x_scale_rom.v|-work|work|
+!i113 0
+R5
+R6
+vipml_spram_v1_5_y_scale_rom
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 _A3D];5BDcJAXl[P2:@Ka2
+Ig=9:NCi^77h6naIKbl:hE3
+R0
+R23
+8C:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/rtl/ipml_spram_v1_5_y_scale_rom.v
+FC:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/rtl/ipml_spram_v1_5_y_scale_rom.v
+FC:\Users\23600\Desktop\full_screen\ipcore\y_scale_rom\rtl\y_scale_rom_init_param.v
+R28
+R3
+R24
+!s107 C:\Users\23600\Desktop\full_screen\ipcore\y_scale_rom\rtl\y_scale_rom_init_param.v|C:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/rtl/ipml_spram_v1_5_y_scale_rom.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/rtl/ipml_spram_v1_5_y_scale_rom.v|-work|work|
+!i113 0
+R5
+R6
+vkey_config
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 9I:@`ES6n[JKe1XaMUBhb2
+Ih5l9?Q`@^ilJ16PR0`DCe1
+R0
+w1699690816
+8C:/Users/23600/Desktop/full_screen/source/key_config.v
+FC:/Users/23600/Desktop/full_screen/source/key_config.v
+L0 1
+R3
+R20
+!s107 C:/Users/23600/Desktop/full_screen/source/key_config.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/key_config.v|-work|work|
+!i113 0
+R5
+R6
+vms7200_ctl
+Z29 !s110 1699691074
+!i10b 1
+!s100 iKo1Z0cH:JJ?U>SS=@1Qn2
+I_bY^Y25^Lz07`i;G8Gi3R1
+R2
+R0
+R12
+8C:/Users/23600/Desktop/full_screen/source/rtl/ms7200_ctl.v
+FC:/Users/23600/Desktop/full_screen/source/rtl/ms7200_ctl.v
+R17
+R3
+r1
+!s85 0
+31
+Z30 !s108 1699691074.000000
+!s107 C:/Users/23600/Desktop/full_screen/source/rtl/ms7200_ctl.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/rtl/ms7200_ctl.v|-work|work|
+!i113 0
+R5
+R6
+vms7210_ctl
+R29
+!i10b 1
+!s100 3i5eYm:V@LE2=JU1[>K:V0
+IS8eSlCB_NMVW<lk<gSaml0
+R2
+R0
+w1697784490
+8C:/Users/23600/Desktop/full_screen/source/rtl/ms7210_ctl.v
+FC:/Users/23600/Desktop/full_screen/source/rtl/ms7210_ctl.v
+R17
+R3
+r1
+!s85 0
+31
+R30
+!s107 C:/Users/23600/Desktop/full_screen/source/rtl/ms7210_ctl.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/rtl/ms7210_ctl.v|-work|work|
+!i113 0
+R5
+R6
+vms72xx_ctl
+R29
+!i10b 1
+!s100 JA>zVh1caHoLj;R80677c0
+IFW@<T4E2Jz^SbbJ[mljPC3
+R2
+R0
+w1697810630
+8C:/Users/23600/Desktop/full_screen/source/rtl/ms72xx_ctl.v
+FC:/Users/23600/Desktop/full_screen/source/rtl/ms72xx_ctl.v
+R9
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/23600/Desktop/full_screen/source/rtl/ms72xx_ctl.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/rtl/ms72xx_ctl.v|-work|work|
+!i113 0
+R5
+R6
+vmul_2_8
+R7
+!i10b 1
+!s100 4FANdeQ9a^ogh0D8SB49E3
+ID^N:TR<GURo`BOAPO5_Ce0
+R2
+R0
+R19
+8C:/Users/23600/Desktop/full_screen/ipcore/mul_2_8/mul_2_8.v
+FC:/Users/23600/Desktop/full_screen/ipcore/mul_2_8/mul_2_8.v
+R14
+R3
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/23600/Desktop/full_screen/ipcore/mul_2_8/mul_2_8.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/ipcore/mul_2_8/mul_2_8.v|-work|work|
+!i113 0
+R5
+R6
+vpll
+R7
+!i10b 1
+!s100 8CoL@Mf^l>SABK]NNj=In0
+Ic5g:PGJQTQ_eK<akBf1TA3
+R2
+R0
+w1699181856
+8C:/Users/23600/Desktop/full_screen/source/ipcore/pll/pll.v
+FC:/Users/23600/Desktop/full_screen/source/ipcore/pll/pll.v
+R22
+R3
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/23600/Desktop/full_screen/source/ipcore/pll/pll.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/ipcore/pll/pll.v|-work|work|
+!i113 0
+R5
+R6
+vpower_on_delay
+R29
+!i10b 1
+!s100 ?SHU<5_o3PZLcoJWlL6eY3
+IXM=^1eaSLLn425ZZS8F]Q2
+R2
+R0
+w1697810670
+8C:/Users/23600/Desktop/full_screen/source/rtl/power_on_delay.v
+FC:/Users/23600/Desktop/full_screen/source/rtl/power_on_delay.v
+R11
+R3
+r1
+!s85 0
+31
+R30
+!s107 C:/Users/23600/Desktop/full_screen/source/rtl/power_on_delay.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/rtl/power_on_delay.v|-work|work|
+!i113 0
+R5
+R6
+vram_fifo
+R13
+!i10b 1
+!s100 >>^J2o[^g:>nFKPOIR6K=2
+IAUY7RhVLVDdG>mcklVj>K2
+R2
+R0
+R25
+8C:/Users/23600/Desktop/full_screen/source/ram_fifo/ram_fifo.v
+FC:/Users/23600/Desktop/full_screen/source/ram_fifo/ram_fifo.v
+R14
+R3
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/23600/Desktop/full_screen/source/ram_fifo/ram_fifo.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/ram_fifo/ram_fifo.v|-work|work|
+!i113 0
+R5
+R6
+vram_fifo_ctrl
+R1
+!i10b 1
+!s100 L`5mB45@BkL<9gh]44J_B0
+IX2iP@kASnj@fKNeY1?zmV2
+R2
+R0
+w1699180974
+8C:/Users/23600/Desktop/full_screen/source/scale/ram_fifo_ctrl.v
+FC:/Users/23600/Desktop/full_screen/source/scale/ram_fifo_ctrl.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/23600/Desktop/full_screen/source/scale/ram_fifo_ctrl.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/scale/ram_fifo_ctrl.v|-work|work|
+!i113 0
+R5
+R6
+vrd_buf
+R29
+!i10b 1
+!s100 6VFfDIEj87B65ejlX:Cma3
+I3VmG_m0JBQ6i?aXd3Hj6Y0
+R2
+R0
+w1699177097
+8C:/Users/23600/Desktop/full_screen/source/rtl/rd_buf.v
+FC:/Users/23600/Desktop/full_screen/source/rtl/rd_buf.v
+R17
+R3
+r1
+!s85 0
+31
+R30
+!s107 C:/Users/23600/Desktop/full_screen/source/rtl/rd_buf.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/rtl/rd_buf.v|-work|work|
+!i113 0
+R5
+R6
+vrd_ctrl
+R29
+!i10b 1
+!s100 i;gH3eEA]Tng`_G_NPETY0
+I_SOaQ@PdJmFBY[3LlS^5e1
+R2
+R0
+w1696863158
+8C:/Users/23600/Desktop/full_screen/source/rtl/rd_ctrl.v
+FC:/Users/23600/Desktop/full_screen/source/rtl/rd_ctrl.v
+R9
+R3
+r1
+!s85 0
+31
+R30
+!s107 C:/Users/23600/Desktop/full_screen/source/rtl/rd_ctrl.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/rtl/rd_ctrl.v|-work|work|
+!i113 0
+R5
+R6
+vrd_fram_buf
+R7
+!i10b 1
+!s100 h>RFQP;ZGh;F;1YKkUD=10
+IQjUIKJ?PCflojY[l138M22
+R2
+R0
+R26
+8C:/Users/23600/Desktop/full_screen/source/rd_fram_buf/rd_fram_buf.v
+FC:/Users/23600/Desktop/full_screen/source/rd_fram_buf/rd_fram_buf.v
+R14
+R3
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/23600/Desktop/full_screen/source/rd_fram_buf/rd_fram_buf.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/rd_fram_buf/rd_fram_buf.v|-work|work|
+!i113 0
+R5
+R6
+vreg_config
+R29
+!i10b 1
+!s100 =[5XB8G3@k_YEm:9k`h2G2
+IN3nRC3WY]:^oC13P]A?a>0
+R2
+R0
+w1699177475
+8C:/Users/23600/Desktop/full_screen/source/rtl/reg_config.v
+FC:/Users/23600/Desktop/full_screen/source/rtl/reg_config.v
+R11
+R3
+r1
+!s85 0
+31
+R30
+!s107 C:/Users/23600/Desktop/full_screen/source/rtl/reg_config.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/rtl/reg_config.v|-work|work|
+!i113 0
+R5
+R6
+vrfifo
+R1
+!i10b 1
+!s100 ^^m4mE3o[ES>HFK95F]M81
+I45aih]9_4L1X3:W4KkB4n2
+R2
+R0
+w1698762924
+8C:/Users/23600/Desktop/full_screen/source/scale/rfifo.v
+FC:/Users/23600/Desktop/full_screen/source/scale/rfifo.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/23600/Desktop/full_screen/source/scale/rfifo.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/scale/rfifo.v|-work|work|
+!i113 0
+R5
+R6
+vscale_fifo
+R13
+!i10b 1
+!s100 ?F9HQ7O0ZN]o?;YOzS><c1
+Io2WX_bYTGI;:<`jVa>5jS0
+R2
+R0
+R18
+8C:/Users/23600/Desktop/full_screen/source/scale_fifo/scale_fifo.v
+FC:/Users/23600/Desktop/full_screen/source/scale_fifo/scale_fifo.v
+R14
+R3
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/23600/Desktop/full_screen/source/scale_fifo/scale_fifo.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/scale_fifo/scale_fifo.v|-work|work|
+!i113 0
+R5
+R6
+vscaler
+R1
+!i10b 1
+!s100 43DT9QbSOBe`Hdj69fL8N1
+IILf9lah<Ih:K]0o9j8jH93
+R2
+R0
+w1699505574
+8C:/Users/23600/Desktop/full_screen/source/scale/scaler.v
+FC:/Users/23600/Desktop/full_screen/source/scale/scaler.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/23600/Desktop/full_screen/source/scale/scaler.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/scale/scaler.v|-work|work|
+!i113 0
+R5
+R6
+vscaler_2
+R1
+!i10b 1
+!s100 >7?MR0B<0oXDWnMRX3BoA0
+I=d3ELED`Zk?_PVV;^k_:81
+R2
+R0
+w1699619683
+8C:/Users/23600/Desktop/full_screen/source/scale/scaler_2.v
+FC:/Users/23600/Desktop/full_screen/source/scale/scaler_2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/23600/Desktop/full_screen/source/scale/scaler_2.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/scale/scaler_2.v|-work|work|
+!i113 0
+R5
+R6
+vscaler_3
+R1
+!i10b 1
+!s100 jT^9mH^62K^GM1H=;YRD02
+IRfHdCCRAi[9gf66ATegUA1
+R2
+R0
+w1699544173
+8C:/Users/23600/Desktop/full_screen/source/scale/scaler_3.v
+FC:/Users/23600/Desktop/full_screen/source/scale/scaler_3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/23600/Desktop/full_screen/source/scale/scaler_3.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/scale/scaler_3.v|-work|work|
+!i113 0
+R5
+R6
+vscaler_4
+R7
+!i10b 1
+!s100 lAE@O[O`8kWabcd3Kn6lU3
+ILFOiJ5_KC@5KS0Q6W^L430
+R2
+R0
+w1699620356
+8C:/Users/23600/Desktop/full_screen/source/scale/scaler_4.v
+FC:/Users/23600/Desktop/full_screen/source/scale/scaler_4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/23600/Desktop/full_screen/source/scale/scaler_4.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/scale/scaler_4.v|-work|work|
+!i113 0
+R5
+R6
+vsize_down_fifo
+R13
+!i10b 1
+!s100 OJZ273gh@iUO5R_nXC:F71
+II3N0iAhjEaI[LkH;Ujgdh3
+R2
+R0
+R16
+8C:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/size_down_fifo.v
+FC:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/size_down_fifo.v
+R22
+R3
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/size_down_fifo.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/ipcore/size_down_fifo/size_down_fifo.v|-work|work|
+!i113 0
+R5
+R6
+vsync_vg
+R29
+!i10b 1
+!s100 _8^@DTXFSYh<UHOfgmjAd3
+IEOXI0XaE[lLBg;eTDhOz;2
+R2
+R0
+w1699182503
+8C:/Users/23600/Desktop/full_screen/source/rtl/sync_vg.v
+FC:/Users/23600/Desktop/full_screen/source/rtl/sync_vg.v
+L0 35
+R3
+r1
+!s85 0
+31
+R30
+!s107 C:/Users/23600/Desktop/full_screen/source/rtl/sync_vg.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/rtl/sync_vg.v|-work|work|
+!i113 0
+R5
+R6
+vtb_imgae_size_down
+Z31 !s110 1699691078
+!i10b 1
+!s100 U79DbgdRWj>d9eK:HF1nX3
+I]682LSjf9R?cb67nR9eIS1
+R2
+R0
+w1699687667
+8C:/Users/23600/Desktop/full_screen/sim/tb_imgae_size_down.v
+FC:/Users/23600/Desktop/full_screen/sim/tb_imgae_size_down.v
+L0 3
+R3
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/23600/Desktop/full_screen/sim/tb_imgae_size_down.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/sim/tb_imgae_size_down.v|-work|work|
+!i113 0
+R5
+R6
+vtb_key_config
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 _Jb?m1D^o963GaJ<QUJOi1
+IEI>f1fDDWIW_XjfAd80_n1
+R0
+w1699690858
+8C:/Users/23600/Desktop/full_screen/source/tb_key_config.v
+FC:/Users/23600/Desktop/full_screen/source/tb_key_config.v
+L0 3
+R3
+R24
+!s107 C:/Users/23600/Desktop/full_screen/source/tb_key_config.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/tb_key_config.v|-work|work|
+!i113 0
+R5
+R6
+vtb_ram_fifo_ctrl
+R31
+!i10b 1
+!s100 EFJ9Sf3H?NDO>HYE^[c6Q2
+IKon>QghlXdL6E6>2885251
+R2
+R0
+w1698160942
+8C:/Users/23600/Desktop/full_screen/sim/tb_ram_fifo_ctrl.v
+FC:/Users/23600/Desktop/full_screen/sim/tb_ram_fifo_ctrl.v
+L0 2
+R3
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/23600/Desktop/full_screen/sim/tb_ram_fifo_ctrl.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/sim/tb_ram_fifo_ctrl.v|-work|work|
+!i113 0
+R5
+R6
+vtb_rfifo
+R31
+!i10b 1
+!s100 AAZ2]]:Om0BK7VNUE1?5`0
+I@G^]9neD^dn5iGP0<NSlj2
+R2
+R0
+w1697379790
+8C:/Users/23600/Desktop/full_screen/sim/tb_rfifo.v
+FC:/Users/23600/Desktop/full_screen/sim/tb_rfifo.v
+L0 2
+R3
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/23600/Desktop/full_screen/sim/tb_rfifo.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/sim/tb_rfifo.v|-work|work|
+!i113 0
+R5
+R6
+vwr_buf
+R29
+!i10b 1
+!s100 ZjQJVO^D;mKQCeY0z:5z31
+I9>=]lUjidGSg6fEZ`:gIf3
+R2
+R0
+w1699177096
+8C:/Users/23600/Desktop/full_screen/source/wr_buf.v
+FC:/Users/23600/Desktop/full_screen/source/wr_buf.v
+R17
+R3
+r1
+!s85 0
+31
+R30
+!s107 C:/Users/23600/Desktop/full_screen/source/wr_buf.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/wr_buf.v|-work|work|
+!i113 0
+R5
+R6
+vwr_cmd_trans
+R29
+!i10b 1
+!s100 i>n[6Q[dFOd0RFOZJIXKF3
+Igm>P]MQ085<6]V?``IeMN0
+R2
+R0
+w1699014586
+8C:/Users/23600/Desktop/full_screen/source/rtl/wr_cmd_trans.v
+FC:/Users/23600/Desktop/full_screen/source/rtl/wr_cmd_trans.v
+R17
+R3
+r1
+!s85 0
+31
+R30
+!s107 C:/Users/23600/Desktop/full_screen/source/rtl/wr_cmd_trans.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/rtl/wr_cmd_trans.v|-work|work|
+!i113 0
+R5
+R6
+vwr_ctrl
+R29
+!i10b 1
+!s100 BT`Uf3A=QW^^Ij4knFHN13
+I8T4CBHX?6giZl:O3XbYgK2
+R2
+R0
+w1679025230
+8C:/Users/23600/Desktop/full_screen/source/rtl/wr_ctrl.v
+FC:/Users/23600/Desktop/full_screen/source/rtl/wr_ctrl.v
+R9
+R3
+r1
+!s85 0
+31
+R30
+!s107 C:/Users/23600/Desktop/full_screen/source/rtl/wr_ctrl.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/rtl/wr_ctrl.v|-work|work|
+!i113 0
+R5
+R6
+vwr_fram_buf
+R7
+!i10b 1
+!s100 <n6UcliEfI@=bCSe4EJhN3
+Im[7CZLA>miM<NBB9J@Tk13
+R2
+R0
+R27
+8C:/Users/23600/Desktop/full_screen/source/wr_fram_buf/wr_fram_buf.v
+FC:/Users/23600/Desktop/full_screen/source/wr_fram_buf/wr_fram_buf.v
+R14
+R3
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/23600/Desktop/full_screen/source/wr_fram_buf/wr_fram_buf.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/wr_fram_buf/wr_fram_buf.v|-work|work|
+!i113 0
+R5
+R6
+vwr_rd_ctrl_top
+R1
+!i10b 1
+!s100 61U6kn`2[i?VV6<[6^aa<2
+IbzYb=B6Nk?hFTiDF3Wh_Z1
+R2
+R0
+w1679022262
+8C:/Users/23600/Desktop/full_screen/source/rtl/wr_rd_ctrl_top.v
+FC:/Users/23600/Desktop/full_screen/source/rtl/wr_rd_ctrl_top.v
+R17
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/23600/Desktop/full_screen/source/rtl/wr_rd_ctrl_top.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/source/rtl/wr_rd_ctrl_top.v|-work|work|
+!i113 0
+R5
+R6
+vx_scale_rom
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 UL@AXL<U<bh9kAk7alhS?2
+I1KUdP4n6Oz5[[i?Qi39@@0
+R0
+R21
+8C:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/x_scale_rom.v
+FC:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/x_scale_rom.v
+R14
+R3
+R24
+!s107 C:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/x_scale_rom.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/ipcore/x_scale_rom/x_scale_rom.v|-work|work|
+!i113 0
+R5
+R6
+vy_scale_rom
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 TlNKR@07D30T[Q^B>Y9kV3
+IP6YMH^9kLcQJNH6]fcS4_2
+R0
+R23
+8C:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/y_scale_rom.v
+FC:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/y_scale_rom.v
+R14
+R3
+R24
+!s107 C:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/y_scale_rom.v|
+!s90 -reportprogress|300|C:/Users/23600/Desktop/full_screen/ipcore/y_scale_rom/y_scale_rom.v|-work|work|
+!i113 0
+R5
+R6

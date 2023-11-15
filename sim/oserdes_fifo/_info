@@ -1,0 +1,202 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/.PDS2021/prj/fifo_ram_ctrl/sim
+vtX3Hi2GoI1L9MHsMRLBtQA==
+Z0 !s10a 1653857264
+Z1 !s110 1697197263
+!i10b 0
+!s100 QFGVA08BLTf?d@=mSO@j02
+I[bzX;eKD<ab1F``bOLkiO2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!i8a 584959648
+Z3 dD:/.PDS2021/PDS_2021.4-SP1.2/arch/vendor/pango/verilog/simulation/modelsim10.2c
+Z4 w1697197263
+Z5 8./oserdes_fifo_source_codes/oserdes_fifo_async_fifo.vp
+Z6 F./oserdes_fifo_source_codes/oserdes_fifo_async_fifo.vp
+Z7 L0 23
+Z8 OL;L;10.5;63
+r1
+!s85 0
+31
+Z9 !s108 1697197263.000000
+Z10 !s107 ./oserdes_fifo_source_codes/oserdes_fifo_async_fifo.vp|
+Z11 !s90 -incr|-f|./filelist_oserdes_fifo_gtp.f|-work|oserdes_fifo|
+!i113 0
+Z12 o-work oserdes_fifo -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 tCvgOpt 0
+na20eb88
+vOKdvlzE9TmvbGsNNAHb0ug==
+R0
+R1
+!i10b 0
+!s100 ^kPIlWSXn4KWQ[P8ZmJC<2
+II==o?QddMldNzJWDagM1i2
+R2
+!i8a 1398023344
+R3
+R4
+R5
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+n48fa068
+vWH/Wo/iooSUVm0HOmGeSsg==
+R0
+R1
+!i10b 0
+!s100 8SA3ei41l>^d28VIOaXX;0
+ISZhk?mSN_l<R[S4@b2Uoz3
+R2
+!i8a 1632611712
+R3
+R4
+R5
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+na2fee88
+vYjRiO7iyEDxfZahcm06AolVDY1C8BcC8MZizyOVaEBg=
+R0
+R1
+!i10b 0
+!s100 mV1TY2Q6Hf`J?=V1b[RoG1
+IclYcAZ@L5;m4J41R]D?CN0
+R2
+!i8a 452968064
+R3
+R4
+R5
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+nc9f855f
+vjuqYI2NYQlsGJIJN0XGGhg==
+R0
+R1
+!i10b 0
+!s100 k_d>AehoKz3902bi2Y@nL3
+Iog_^z:ce`iAHCe=cAJ::A3
+R2
+!i8a 1209228704
+R3
+R4
+R5
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+nff55658
+vNvQr3XGQakRCr1ECbyiukuOQvwVCe1frmv8YoQX00Yo=
+R0
+R1
+!i10b 0
+!s100 [8nd5]IKbWT5f@Tlm76Qg2
+IkDo:GA7Ol:=Q;4=fW__TN0
+R2
+!i8a 515989072
+R3
+R4
+R5
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+n4d58dc8
+vlmn/7HPiUr2evaSO/trsqQ==
+R0
+R1
+!i10b 0
+!s100 m@53DRo[69ICbljE4YYg33
+IWd9fVhKkb^T6G;PnmE`k?2
+R2
+!i8a 1540349504
+R3
+R4
+R5
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+nf1d0f98
+vl5fKTgCjWGLexY20a1dsCA==
+R0
+R1
+!i10b 0
+!s100 CFhkc^ooPZTz:368J7ZQI2
+IGlDdQ>ZAd]4k25HzaXB__3
+R2
+!i8a 1997802000
+R3
+R4
+R5
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+nff56c78
